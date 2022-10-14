@@ -10,3 +10,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricaf&show_icons=true&theme=dark)
 
+## Skills
+
+#### Languages:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
