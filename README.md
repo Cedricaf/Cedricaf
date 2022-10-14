@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricaf&show_icons=true&theme=dark)
 
-#monkindey { 
+# monkindey { 
   position: Hángzhōu; 
   height: 171cm; 
   display: boy; 
