@@ -2,7 +2,7 @@
 
 # Welkom bij mijn profiel
 
-* Hier kan je al mijn schoolwerk vinden en bekijken.
+* Hier kan je al mijn schoolwerk vinden wat ik gemaakt heb.
 
 ## Contact
 * Discord: Cedric#0015
