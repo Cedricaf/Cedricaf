@@ -7,6 +7,7 @@
 ## Contact
 * Discord: Cedric#0015
 * Email: cedricaf@outlook.com
+* 
 
 
 ## Skills
