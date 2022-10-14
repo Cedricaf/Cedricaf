@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="200"/>
-</div>
+
 
 # Welkom bij mijn profiel
 
