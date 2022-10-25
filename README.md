@@ -5,9 +5,10 @@
 * Hier kan je al mijn schoolwerk vinden wat ik gemaakt heb.
 
 ## Contact
+
 * Discord: Cedric#0015
 * Email: cedricaf@outlook.com
-* 
+* meer
 
 
 ## Skills
