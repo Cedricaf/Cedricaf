@@ -2,7 +2,7 @@
 
 # Welkom bij mijn profiel
 
-* Hier kan je al mijn schoolwerk vinden wat ik gemaakt heb.
+* Hier kan je al mijn schoolwerk vinden etc.
 
 ## Contact
 
