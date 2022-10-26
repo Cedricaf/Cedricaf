@@ -1,4 +1,5 @@
 
+![](https://komarev.com/ghpvc/?username=cedricaf&color=brightgreen&style=for-the-badge)
 
 # Welkom bij mijn profiel
 
@@ -22,6 +23,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedricaf&show_icons=true&theme=dark)
 
-#### Other:
 
-![](https://komarev.com/ghpvc/?username=cedricaf&color=brightgreen&style=for-the-badge)
