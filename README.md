@@ -24,4 +24,4 @@
 
 #### Other:
 
-![](https://komarev.com/ghpvc/?username=cedricaf&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=cedricaf&color=brightgreen&style=for-the-badge)
