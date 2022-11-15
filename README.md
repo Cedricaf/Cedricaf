@@ -9,10 +9,10 @@
 
 * Discord: Cedric#0015
 * Email: cedricaf@outlook.com
-* meer
-
-
+* via Teams
+  
 ## Skills
+
 
 #### Languages:
 
