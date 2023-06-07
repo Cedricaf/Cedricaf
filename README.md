@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cedric</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedricaf&label=Profile%20views&color=0e75b6&style=flat" alt="cedricaf" /> </p>
 
-- 🔭 I’m currently working on **Schoolprojects**
+- Ik ben momenteel aan het werk met **Schoolprojecten**
 
-- 🌱 I’m currently learning **Html, Css, Javascript and PHP.**
+- Ik ben nu **Html, Css, Javascript en PHP aan het leren.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
